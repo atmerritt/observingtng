@@ -3,7 +3,7 @@
 ---
 
 ## IllustrisTNG
-The IllustrisTNG project is a suite of cosmological magnetohydrodynamic simulations of galaxy formation and evolution. For simulation details, science use cases, and data access, please visit the (team page)[https://www.tng-project.org/].
+The IllustrisTNG project is a suite of cosmological magnetohydrodynamic simulations of galaxy formation and evolution. For simulation details, science use cases, and data access, please visit the [team page](https://www.tng-project.org/).
 
 ## A few analysis codes (python)
 

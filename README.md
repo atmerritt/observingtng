@@ -14,7 +14,7 @@ Example usage:
 
 <code>$ python build_stellar_particle_catalog.py -v -w -t '/path/to/TNG/outputs/' subfindID </code>
 
-### Image generation
+### Galaxy image generation
 
 To generate idealized light or stellar mass surface density images, run the code `adaptivebox.py`. 
 
